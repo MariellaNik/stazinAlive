@@ -6,4 +6,6 @@ window.addEventListener("DOMContentLoaded", () => {
   const app = new Application();
   // Used to access the app instance by the automated tests
   window.__JS_APP = app;
+  
+ 
 });
